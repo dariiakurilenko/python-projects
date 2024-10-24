@@ -27,8 +27,14 @@
   ![image](https://github.com/user-attachments/assets/86087bba-aa55-422d-8357-5b7a255c75dc)
 
 
+  <li>Notes</li>
+  this small program has a menu, where a user can choose an action: create new notes, sort and display notes, save all notes   into a file.
+  ![image](https://github.com/user-attachments/assets/79283376-bf9e-4e3f-b867-0bd414dd04c9)
+
   
-  
+  ![image](https://github.com/user-attachments/assets/64bf3461-3166-43b6-ba53-1eade08a3bb5)
+
+  ![image](https://github.com/user-attachments/assets/911a6d4e-a633-4cb9-bd1e-64414c1de4a6)
 
 
 </ul>
